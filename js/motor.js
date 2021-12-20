@@ -1,7 +1,7 @@
 //console.log(123);
 
 let estadoLicuadora = "apagada";
-var licuadora = document.getElementById("blender");
+let licuadora = document.getElementById("blender");
 let sonidoLicuadora=document.getElementById("blender-sound");
 let sonidoBoton= document.getElementById("blender-button-sound");
 const controlarLicuadora = () => {
